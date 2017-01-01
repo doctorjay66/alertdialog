@@ -14,5 +14,9 @@
     <author href="http://coenraets.org" email="ciccio@gmail.com">
         Ciccio
     </author>
+        
+    <content src="index.html"/>
+    <preference name="android-minSdkVersion" value="14"/>
+    <plugin name="cordova-plugin-dialogs" source="npm" spec="~1.2.0"/>
 
 </widget>
